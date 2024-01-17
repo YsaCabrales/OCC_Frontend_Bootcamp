@@ -1,1 +1,1 @@
-This are my files for the Frontend Fundamentals Bootcamp.
+These are my files for the Frontend Fundamentals Bootcamp.
